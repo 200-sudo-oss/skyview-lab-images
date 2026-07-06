@@ -93,3 +93,11 @@ date,datapoint,metric_key,value,unit,source_run,logged_at
 2026-07-05,no2_japan,no2_okutama_ref,3.608e-05,mol/m2,21d-mean 2026-06-14..2026-07-05,2026-07-05T02:03:16
 2026-07-04,atmospheric_river,ivt_max,6231,kg/m/s,2026-07-04T18Z GFS,2026-07-05T02:03:31
 2026-07-04,atmospheric_river,ivt_median,302.1,kg/m/s,2026-07-04T18Z GFS,2026-07-05T02:03:31
+2026-07-06,no2_japan,no2_tokyo,0.0001211,mol/m2,21d-mean 2026-06-15..2026-07-06,2026-07-06T02:03:03
+2026-07-06,no2_japan,no2_osaka,6.412e-05,mol/m2,21d-mean 2026-06-15..2026-07-06,2026-07-06T02:03:04
+2026-07-06,no2_japan,no2_nagoya,5.376e-05,mol/m2,21d-mean 2026-06-15..2026-07-06,2026-07-06T02:03:04
+2026-07-06,no2_japan,no2_fukuoka,3.531e-05,mol/m2,21d-mean 2026-06-15..2026-07-06,2026-07-06T02:03:04
+2026-07-06,no2_japan,no2_sapporo,2.433e-05,mol/m2,21d-mean 2026-06-15..2026-07-06,2026-07-06T02:03:05
+2026-07-06,no2_japan,no2_okutama_ref,3.608e-05,mol/m2,21d-mean 2026-06-15..2026-07-06,2026-07-06T02:03:05
+2026-07-05,atmospheric_river,ivt_max,6624,kg/m/s,2026-07-05T18Z GFS,2026-07-06T02:03:23
+2026-07-05,atmospheric_river,ivt_median,283.9,kg/m/s,2026-07-05T18Z GFS,2026-07-06T02:03:23
