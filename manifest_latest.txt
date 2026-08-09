@@ -1,4 +1,4 @@
-generated|2026-08-08 11:02
-kilauea|2026-08-04|4
-no2_japan|2026-08-08|0
-atmospheric_river|2026-08-07|1
+generated|2026-08-09 11:03
+kilauea|2026-08-04|5
+no2_japan|2026-08-09|0
+atmospheric_river|2026-08-08|1
